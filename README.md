@@ -30,9 +30,7 @@
 [<img alt="Brave" align="center" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">](https://brave.com/)
 
 #### Currently learning :books:
-- API Rest with [Express](https://expressjs.com/)
-- [Graphql](https://graphql.org/)
-- [Mongo Database](https://www.mongodb.com/)
+- [Nextjs](https://nextjs.org/)
 
 #### What I'd like to learn in 2022 :telescope:
 
