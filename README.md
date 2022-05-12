@@ -32,11 +32,6 @@
 #### Currently learning :books:
 - [Nextjs](https://nextjs.org/)
 
-#### What I'd like to learn in 2022 :telescope:
-
-- Game development with [Godot Engine](https://godotengine.org/)
-- [Rust](https://www.rust-lang.org/)
-
 <br>
 
 ![Most Used Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ErneDainesi)
