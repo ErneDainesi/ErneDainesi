@@ -30,7 +30,7 @@
 [<img alt="Brave" align="center" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">](https://brave.com/)
 
 #### Currently learning :books:
-- [Nextjs](https://nextjs.org/)
+- Game Development with [Unity](https://unity.com/)
 
 <br>
 
