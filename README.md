@@ -2,7 +2,7 @@
 
 [<img alt="Linkedin" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ernesto-dainesi/)
 
-*Software Developer at [Avature](https://www.avature.net/)*
+*Software Engineer at [Avature](https://www.avature.net/)*
 [<img alt="Coding Monkey" align="center" width="36px" src="https://media4.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=ecf05e472jy4q8j57vebopt0l1xwt82ws5i76sdwg3ku6iai&rid=giphy.gif&ct=g">]()  
 *Currently studying Systems Analysis at [FIUBA](https://www.ingenieria.uba.ar/)*
 
