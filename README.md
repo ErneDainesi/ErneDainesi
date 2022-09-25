@@ -29,9 +29,6 @@
 [<img alt="Git" align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">](https://git-scm.com/)
 [<img alt="Brave" align="center" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">](https://brave.com/)
 
-#### Currently learning :books:
-- Game Development with [Unity](https://unity.com/)
-
 <br>
 
 ![Most Used Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ErneDainesi)
