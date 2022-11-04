@@ -25,10 +25,3 @@
 
 [<img alt="Neovim" align="center" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">](https://neovim.io/)
 [<img alt="Archlinux" align="center" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">](https://archlinux.org/)
-[<img alt="Alacritty" align="center" src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white">](https://github.com/alacritty)
-[<img alt="Git" align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">](https://git-scm.com/)
-[<img alt="Brave" align="center" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">](https://brave.com/)
-
-<br>
-
-![Most Used Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ErneDainesi)
